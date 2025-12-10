@@ -1,0 +1,41 @@
+year,TIME A,winner,TIME B,round,PLACAR A,PLACAR B
+1936,Berlin,United States,Canada,final,19,8
+1936,Berlin,Mexico,Poland,third place game,26,12
+1948,London,United States,France,final,65,21
+1948,London,Brazil,Mexico,third place game,52,47
+1952,Helsinki,United States,Soviet Union,final,36,25
+1952,Helsinki,Uruguay,Argentina,third place game,68,59
+1956,Melbourne,United States,Soviet Union,final,89,55
+1956,Melbourne,Uruguay,France,third place game,71,62
+1960,Rome,United States,Soviet Union,final,81,57
+1960,Rome,Brazil,Italy,third place game,78,75
+1964,Tokyo,United States,Soviet Union,final,73,59
+1964,Tokyo,Brazil,Puerto Rico,third place game,76,60
+1968,Mexico City,United States,Yugoslavia,final,65,50
+1968,Mexico City,Soviet Union,Brazil,third place game,70,53
+1972,Munich,Soviet Union,United States,final,51,50
+1972,Munich,Cuba,Italy,third place game,66,65
+1976,Montreal,United States,Yugoslavia,final,95,74
+1976,Montreal,Soviet Union,Canada,third place game,100,72
+1980,Moscow,Yugoslavia,Italy,final,86,77
+1980,Moscow,Soviet Union,Spain,third place game,117,94
+1984,Los Angeles,United States,Spain,final,96,65
+1984,Los Angeles,Yugoslavia,Canada,third place game,88,82
+1988,Seoul,Soviet Union,Yugoslavia,final,76,63
+1988,Seoul,United States,Australia,third place game,78,49
+1992,Barcelona,United States,Croatia,final,117,85
+1992,Barcelona,Lithuania,Unified Team,third place game,82,78
+1996,Atlanta,United States,FR Yugoslavia,final,95,69
+1996,Atlanta,Lithuania,Australia,third place game,80,74
+2000,Sydney,United States,France,final,85,75
+2000,Sydney,Lithuania,Australia,third place game,89,71
+2004,Athens,Argentina,Italy,final,84,69
+2004,Athens,United States,Lithuania,third place game,104,96
+2008,Beijing,United States,Spain,final,118,107
+2008,Beijing,Argentina,Lithuania,third place game,87,75
+2012,London,United States,Spain,final,107,100
+2012,London,Russia,Argentina,third place game,81,77
+2016,Rio de Janeiro,United States,Serbia,final,96,66
+2016,Rio de Janeiro,Spain,Australia,third place game,89,88
+2020,Tokyo,United States,France,final,87,82
+2020,Tokyo,Australia,Slovenia,third place game,107,93
