@@ -39,7 +39,7 @@ Apesar do nome "Elo Rating", o sistema utiliza um **algoritmo customizado** dese
 ## 🛠️ Tecnologias Utilizadas
 
 * **Linguagem:** Python 3
-* **Interface:** [CustomTkinter](https://github.com/TomSchimansky/CustomTkinter) (Modern UI)
+* **Interface:** [CustomTkinter](https://github.com/TomSchimansky/CustomTkinter)
 * **Manipulação de Dados:** Pandas
 * **Visualização:** Matplotlib
 * **Imagens:** Pillow (PIL)
@@ -64,7 +64,7 @@ Certifique-se de ter o Python instalado.
 
 1. **Clone o repositório:**
    ```
-   git clone [https://github.com/ppsilvasantos/pyelo-analytics.git]
+   git clone https://github.com/ppsilvasantos/pyelo-analytics.git
    cd pyelo-analytics
    
 2. **Instale as dependências:**
