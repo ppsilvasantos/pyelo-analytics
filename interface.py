@@ -358,9 +358,9 @@ class InterfaceApp(ctk.CTk):
         frame_integrantes.pack(pady=15)
 
         ctk.CTkLabel(frame_integrantes, text="Integrantes:", font=("Arial", 12, "bold")).pack()
-        ctk.CTkLabel(frame_integrantes, text="Pedro Paulo Silva Santos - Nº USP: 16993206").pack()
-        ctk.CTkLabel(frame_integrantes, text="Vinicius Gonzalez - Nº USP: 16903897").pack()
-        ctk.CTkLabel(frame_integrantes, text="Julia Lopes Lamarchi - Nº USP: 15676110").pack()
+        ctk.CTkLabel(frame_integrantes, text="Pedro Paulo Silva Santos ").pack()
+        ctk.CTkLabel(frame_integrantes, text="Vinicius Gonzalez").pack()
+        ctk.CTkLabel(frame_integrantes, text="Julia Lopes Lamarchi").pack()
 
         # Linha divisória visual
         ctk.CTkFrame(self.frame_conteudo, height=2, width=400, fg_color="gray").pack(pady=15)
@@ -599,4 +599,5 @@ class InterfaceApp(ctk.CTk):
 
 if __name__ == "__main__":
     app = InterfaceApp()  # Cria a instância janela
+
     app.mainloop()        # Mantém a janela aberta num loop infinito 
